@@ -180,7 +180,7 @@ export const Navbar: React.FC = () => {
 
             {/* Footer markers inside mobile menu */}
             <div className="mb-12 flex justify-between text-[10px] font-mono text-platinum-dim tracking-wider">
-              <span>BENGALURU, INDIA</span>
+              <span>MUMBAI, INDIA</span>
               <span>© {new Date().getFullYear()} ARENA</span>
             </div>
           </motion.div>

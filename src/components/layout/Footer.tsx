@@ -161,7 +161,7 @@ export const Footer: React.FC = () => {
         {/* ZONE C: Bottom Metadata & Legal Bar */}
         <div className="py-8 flex flex-col md:flex-row justify-between items-center gap-6 text-[10px] font-mono tracking-[0.15em] text-platinum-dim">
           <div className="flex items-center gap-4">
-            <span>BENGALURU, INDIA</span>
+            <span>MUMBAI, INDIA</span>
             <span className="text-champagne-gold/60">•</span>
             <span>ESTD 2026</span>
           </div>

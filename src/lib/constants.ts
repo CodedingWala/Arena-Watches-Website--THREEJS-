@@ -269,7 +269,7 @@ export const FAQ_DATA: FAQItem[] = [
   {
     id: "faq-1",
     question: "What makes the Calibre V.81 movement unique?",
-    answer: "The Calibre V.81 is ARENA's signature in-house automatic movement. Designed and hand-assembled in our state-of-the-art micro-engineering facility in Bengaluru, it contains 214 components and runs at 28,800 vibrations per hour (4Hz). Every single bridge is hand-beveled with anglage finishings, combining classic horology with modern computer-aided calibration."
+    answer: "The Calibre V.81 is ARENA's signature in-house automatic movement. Designed and hand-assembled in our state-of-the-art micro-engineering facility in MUMBAI, it contains 214 components and runs at 28,800 vibrations per hour (4Hz). Every single bridge is hand-beveled with anglage finishings, combining classic horology with modern computer-aided calibration."
   },
   {
     id: "faq-2",

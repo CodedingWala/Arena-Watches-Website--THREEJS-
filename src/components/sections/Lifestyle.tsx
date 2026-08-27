@@ -25,7 +25,7 @@ const MOMENTS: LifestyleMoment[] = [
     id: "m1",
     eyebrow: "MOMENT I: ATELIER DUSK",
     title: "The Midnight Confluence",
-    description: "Ink-blue twilight settling over the architectural spires of Bengaluru. In the quiet of the studio, a master watchmaker tightens the microscopic balance bridge. Precision is not a job here; it is a ritual of silence.",
+    description: "Ink-blue twilight settling over the architectural spires of MUMBAI. In the quiet of the studio, a master watchmaker tightens the microscopic balance bridge. Precision is not a job here; it is a ritual of silence.",
     gradientClass: "from-[#E3EBF4] via-[#F3EDE6] to-[#FAF8F5]",
     noiseIntensity: "opacity-[0.06]",
     align: "left"
@@ -100,7 +100,7 @@ const renderMomentArt = (id: string) => {
             ESCAPEMENT BRIDGE
           </text>
           <text x="150" y="278" className="font-mono text-[7px] tracking-[0.25em] fill-current text-center text-platinum-dim/40" textAnchor="middle">
-            ATELIER BENGALURU
+            ATELIER MUMBAI
           </text>
         </svg>
       );

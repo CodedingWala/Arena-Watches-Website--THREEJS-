@@ -1,0 +1,6 @@
+{
+  "name": "ARENA",
+  "description": "A cinematic, scroll-driven luxury watch landing page celebrating Indian craftsmanship and precision engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
